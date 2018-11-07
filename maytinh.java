@@ -18,7 +18,7 @@ public class maytinh extends Frame implements ActionListener
 		Panel p = new Panel();
 		p.setLayout(new GridLayout(4,4));
 		String buttons[]= {"7","8","9","/",
-				           "4","5","6","=*",
+				           "4","5","6","*",
 				           "1","2","3","-",
 				           ".","0","=","+"};
 		for(int i=0 ; i<buttons.length;i++) {
